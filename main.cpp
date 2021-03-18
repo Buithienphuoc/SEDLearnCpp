@@ -35,4 +35,5 @@ void runMenu() {
             TaskTwoW1W2Runner::run();
             break;
     }
+    cout << "Thank you for using this, have a nice day !!";
 }
